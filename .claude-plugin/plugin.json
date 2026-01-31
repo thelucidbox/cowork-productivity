@@ -1,0 +1,19 @@
+{
+  "name": "cowork-productivity",
+  "version": "1.0.0",
+  "description": "25 AI-powered productivity skills for meetings, communication, projects, and content",
+  "author": {
+    "name": "Fabian Aguilar",
+    "email": "fabianjagu@gmail.com"
+  },
+  "homepage": "https://github.com/fabianaguilar/cowork-productivity",
+  "repository": "https://github.com/fabianaguilar/cowork-productivity",
+  "license": "MIT",
+  "keywords": [
+    "productivity",
+    "meetings",
+    "projects",
+    "content",
+    "communication"
+  ]
+}
